@@ -333,7 +333,7 @@ def _from_text(text: str) -> Optional[Tuple[str, Dict[str, Any]]]:
 
     return None
 
-# 从模型原始输出里提取action，params
+
 def parse_action(raw_output: Any) -> Tuple[str, Dict[str, Any]]:
     """Return a normalized (action, parameters) pair.
 

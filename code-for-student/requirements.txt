@@ -31,3 +31,6 @@ tqdm==4.67.3
 typing-inspection==0.4.2
 typing_extensions==4.15.0
 tzdata==2025.3
+openai>=1.0.0
+Pillow>=9.0.0
+
